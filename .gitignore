@@ -1,0 +1,9 @@
+# Firebase Functions
+functions/node_modules
+functions/lib
+functions/.runtimeconfig.json
+
+# General
+yarn.lock
+.firebaserc
+*.log
